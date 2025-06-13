@@ -1,0 +1,15 @@
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Remove default margin on body */
+body {
+  margin: 0;
+}
